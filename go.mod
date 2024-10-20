@@ -1,1 +1,1 @@
-module protos
+module github.com/mellocs/protos
